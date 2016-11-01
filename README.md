@@ -3,7 +3,7 @@ Code test for potential VFX Technical Directors
 
 ## Instructions
 
-Please fork this repo and commit code exercising the following tasks in a Maya environment. 
+Please fork this repo and issue a pull request.  You can then push code exercising the following tasks in a Maya environment. 
 
 - Generate a dialog listing all of Laika's movies.  Provide 5 columns for each row: movie name, release date, domestic gross, movie poster icon, and a "camera" button.
 - Dialog's title should be _Laika Movies_
